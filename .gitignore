@@ -1,5 +1,5 @@
 *.tasty
 *.class
 /.metals
-/DS_STORE
+.DS_STORE
 
